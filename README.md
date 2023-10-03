@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖-Decode-a-Morse-code-message](#about-project)
+- [📖-Study Notes](#about-project)
 - [:busts\_in\_silhouette: Authors ](#busts_in_silhouette-authors-)
 
 <!-- PROJECT DESCRIPTION -->
