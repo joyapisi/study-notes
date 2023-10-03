@@ -19,7 +19,7 @@
 
 # 📖 Study-notes <a name="about-project"></a>
 
-Study notes will be a flashcard app that will help students or learners add short notes to flash cards which can help them memorize their notes efficiently. Users can learn and retain information more efficiently. Users can add notes based on categories such as various subjects they are studying.
+Study notes will be a flashcard app that will help students or learners add short notes to flash cards which can help them memorize their notes efficiently. Flashcards will be repetitive to allow users to retain information more efficiently. Users can add notes based on categories such as various subjects they are studying.
 **Study notes** will be created with 
 react in the front-end and Rails in the back end
 
